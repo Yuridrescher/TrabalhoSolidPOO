@@ -16,6 +16,7 @@ saborexpress/
 ```
 
 ## 🛠️ Aplicação dos Princípios SOLID
+Fonte ALURA
 
 Durante o desenvolvimento, foram utilizados os cinco princípios SOLID para organizar melhor o código e facilitar futuras alterações.
 
